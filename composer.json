@@ -9,13 +9,11 @@
         "ext-pdo_sqlite": "*",
         "ext-gd": "*",
         "rachidlaasri/laravel-installer": "^1.5",
-        "laravel/framework": "^5.4.0",
+        "laravel/framework": "5.2.*",
         "facebook/graph-sdk": "^5.1",
         "dg/twitter-php": "^3.5",
         "tumblr/tumblr": "^0.2.0",
-        "pusher/pusher-php-server": "^2.4",
-        "guzzlehttp/guzzle": "~6.0"
-
+        "pusher/pusher-php-server": "^2.4"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
