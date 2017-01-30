@@ -5,7 +5,9 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
+        "php": ">=5.5.9",        
+        "ext-pdo_sqlite": "*",
+        "rachidlaasri/laravel-installer": "1.5",
         "laravel/framework": "5.2.*",
         "facebook/php-sdk-v4": "^5.1",
         "dg/twitter-php": "^3.5",
